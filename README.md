@@ -2,7 +2,7 @@
 
 ## О проекте
 
-Это модифицированная сборка среды [Orwell Dev-C++](https://sourceforge.net/projects/orwelldevcpp/files/Portable%20Releases/).
+Это модифицированная сборка среды Orwell Dev-C++
 
 ## Установка и запуск
 
