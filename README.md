@@ -6,7 +6,7 @@
 
 ## Установка и запуск
 
-[Ссылка для скачивания тут.](https://github.com/dshatov/DevCPP-BGI-binaries/releases/download/v1.0/Dev-Cpp-BGI.zip)
+[Ссылка для скачивания тут.](https://github.com/dshatov/DevCPP-BGI-binaries/releases/download/v1.0.1/Dev-Cpp-BGI.zip)
 Распакуйте архив куда угодно.
 
 Для запуска следует использовать файл `devcppPortable.exe` вместо `devcpp.exe`!
